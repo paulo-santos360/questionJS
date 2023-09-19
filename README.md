@@ -23,7 +23,7 @@ Esta página de FAQ interativa permite que os visitantes encontrem rapidamente r
 
 ## Como Usar
 
-1. Acesse a [Página de FAQ](URL_DA_PAGINA_FAQ) para explorar as perguntas frequentes.
+1. Acesse a [Página de FAQ](https://inforwork.com.br/questionjs/) para explorar as perguntas frequentes.
 2. Clique em um tópico ou pergunta para ver a resposta correspondente.
 3. Use a funcionalidade de pesquisa para encontrar respostas específicas.
 4. Desfrute de uma experiência de FAQ interativa e fácil de usar!
